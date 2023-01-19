@@ -1,0 +1,22 @@
+{
+  "name": "javascript-refresher",
+  "version": "1.0.0",
+  "description": "javascript refresher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaithChinonso/VANILLA-JAVASCRIPT-REFRESHER.git"
+  },
+  "author": "Faith Umunnakwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaithChinonso/VANILLA-JAVASCRIPT-REFRESHER/issues"
+  },
+  "homepage": "https://github.com/FaithChinonso/VANILLA-JAVASCRIPT-REFRESHER#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
